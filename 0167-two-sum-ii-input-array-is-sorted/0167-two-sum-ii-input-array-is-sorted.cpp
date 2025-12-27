@@ -1,23 +1,22 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
-        int i = 0;
-        int j = numbers.size() - 1;
+        int l = 0, r = numbers.size() - 1;
 
-        while (i < j) {
-            int sum = numbers[i] + numbers[j];
+        while(l < r) {
+            int sum = numbers[l] + numbers[r];
 
-            if (sum == target) {
-                return {i + 1, j + 1};
+            if(sum == target) {
+                return {l + 1, r + 1}; 
             }
-            else if (sum < target) {
-                i++;
+            else if(sum < target) {
+                l++;
             }
             else {
-                j--;
+                r--;
             }
         }
-
-        return {};
+        return {}; 
     }
 };
+// Two pointers approch easy 27/12/25
