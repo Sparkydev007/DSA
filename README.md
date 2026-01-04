@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparkydev007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Sparkydev007/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparkydev007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sparkydev007/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sparkydev007/DSA/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Sparkydev007/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sparkydev007/DSA/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/Sparkydev007/DSA/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparkydev007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Sparkydev007/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparkydev007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sparkydev007/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sparkydev007/DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
