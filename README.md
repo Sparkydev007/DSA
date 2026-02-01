@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sparkydev007/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sparkydev007/DSA/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sparkydev007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sparkydev007/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Sparkydev007/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sparkydev007/DSA/tree/master/0088-merge-sorted-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sparkydev007/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Greedy
 |  |
 | ------- |
@@ -69,4 +71,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sparkydev007/DSA/tree/master/0238-product-of-array-except-self) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sparkydev007/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
