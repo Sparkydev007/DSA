@@ -16,6 +16,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sparkydev007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sparkydev007/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sparkydev007/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3379-transformed-array](https://github.com/Sparkydev007/DSA/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sparkydev007/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/Sparkydev007/DSA/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
