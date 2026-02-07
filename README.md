@@ -39,6 +39,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Sparkydev007/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Sparkydev007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sparkydev007/DSA/tree/master/0013-roman-to-integer) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sparkydev007/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sparkydev007/DSA/tree/master/0005-longest-palindromic-substring) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sparkydev007/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/Sparkydev007/DSA/tree/master/3379-transformed-array) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sparkydev007/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
