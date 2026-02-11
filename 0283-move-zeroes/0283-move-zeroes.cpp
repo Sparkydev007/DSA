@@ -14,3 +14,7 @@ public:
         }
     }
 };
+
+
+
+// here we have used the approch which involed the sorting the int array in zero & Non-zero while only taking the non zero elements into the initilized array and pushing all the zero arrays to the very end while keeping the complexity O(1)
