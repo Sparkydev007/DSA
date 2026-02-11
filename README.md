@@ -19,6 +19,7 @@
 | [3379-transformed-array](https://github.com/Sparkydev007/DSA/tree/master/3379-transformed-array) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sparkydev007/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sparkydev007/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sparkydev007/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0012-integer-to-roman](https://github.com/Sparkydev007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sparkydev007/DSA/tree/master/0013-roman-to-integer) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sparkydev007/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sparkydev007/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sparkydev007/DSA/tree/master/0238-product-of-array-except-self) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sparkydev007/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sparkydev007/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -112,8 +115,10 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Sparkydev007/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sparkydev007/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Sparkydev007/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sparkydev007/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 <!---LeetCode Topics End-->
