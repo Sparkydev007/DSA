@@ -27,6 +27,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sparkydev007/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sparkydev007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sparkydev007/DSA/tree/master/0013-roman-to-integer) |
+| [3713-longest-balanced-substring-i](https://github.com/Sparkydev007/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sparkydev007/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sparkydev007/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
@@ -44,6 +45,7 @@
 | [0012-integer-to-roman](https://github.com/Sparkydev007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sparkydev007/DSA/tree/master/0013-roman-to-integer) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sparkydev007/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3713-longest-balanced-substring-i](https://github.com/Sparkydev007/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sparkydev007/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Sparkydev007/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
 | ------- |
@@ -121,4 +124,8 @@
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Sparkydev007/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sparkydev007/DSA/tree/master/3721-longest-balanced-subarray-ii) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Sparkydev007/DSA/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
