@@ -46,6 +46,7 @@
 | [0012-integer-to-roman](https://github.com/Sparkydev007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sparkydev007/DSA/tree/master/0013-roman-to-integer) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sparkydev007/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sparkydev007/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/Sparkydev007/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sparkydev007/DSA/tree/master/3714-longest-balanced-substring-ii) |
 ## Sliding Window
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sparkydev007/DSA/tree/master/0011-container-with-most-water) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sparkydev007/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Binary Search
 |  |
 | ------- |
