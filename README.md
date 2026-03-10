@@ -82,6 +82,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sparkydev007/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sparkydev007/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sparkydev007/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sparkydev007/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sparkydev007/DSA/tree/master/0238-product-of-array-except-self) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sparkydev007/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sparkydev007/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sparkydev007/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sparkydev007/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sparkydev007/DSA/tree/master/3721-longest-balanced-subarray-ii) |
