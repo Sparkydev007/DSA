@@ -163,4 +163,8 @@
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/Sparkydev007/DSA/tree/master/1980-find-unique-binary-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Sparkydev007/DSA/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
