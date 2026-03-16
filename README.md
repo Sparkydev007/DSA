@@ -17,6 +17,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sparkydev007/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sparkydev007/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sparkydev007/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/Sparkydev007/DSA/tree/master/1980-find-unique-binary-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sparkydev007/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sparkydev007/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -44,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/Sparkydev007/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Sparkydev007/DSA/tree/master/0189-rotate-array) |
 | [1622-fancy-sequence](https://github.com/Sparkydev007/DSA/tree/master/1622-fancy-sequence) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sparkydev007/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## String
 |  |
@@ -92,6 +94,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Sparkydev007/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sparkydev007/DSA/tree/master/0088-merge-sorted-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sparkydev007/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sparkydev007/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sparkydev007/DSA/tree/master/0238-product-of-array-except-self) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sparkydev007/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sparkydev007/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sparkydev007/DSA/tree/master/3714-longest-balanced-substring-ii) |
@@ -164,6 +168,7 @@
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sparkydev007/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sparkydev007/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -192,6 +197,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sparkydev007/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
 |  |
