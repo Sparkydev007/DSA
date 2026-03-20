@@ -24,6 +24,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sparkydev007/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sparkydev007/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/Sparkydev007/DSA/tree/master/3379-transformed-array) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sparkydev007/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sparkydev007/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sparkydev007/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sparkydev007/DSA/tree/master/3721-longest-balanced-subarray-ii) |
@@ -99,6 +100,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sparkydev007/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sparkydev007/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sparkydev007/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sparkydev007/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
@@ -176,6 +178,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sparkydev007/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sparkydev007/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sparkydev007/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Recursion
 |  |
 | ------- |
