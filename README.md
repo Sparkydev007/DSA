@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sparkydev007/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sparkydev007/DSA/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sparkydev007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0874-walking-robot-simulation](https://github.com/Sparkydev007/DSA/tree/master/0874-walking-robot-simulation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sparkydev007/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sparkydev007/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sparkydev007/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -43,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sparkydev007/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sparkydev007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sparkydev007/DSA/tree/master/0013-roman-to-integer) |
+| [0874-walking-robot-simulation](https://github.com/Sparkydev007/DSA/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/Sparkydev007/DSA/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sparkydev007/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sparkydev007/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -161,6 +163,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/Sparkydev007/DSA/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sparkydev007/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2751-robot-collisions](https://github.com/Sparkydev007/DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sparkydev007/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
