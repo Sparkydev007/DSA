@@ -165,6 +165,7 @@
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Sparkydev007/DSA/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sparkydev007/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2069-walking-robot-simulation-ii](https://github.com/Sparkydev007/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/Sparkydev007/DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sparkydev007/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Sparkydev007/DSA/tree/master/3379-transformed-array) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Sparkydev007/DSA/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/Sparkydev007/DSA/tree/master/2069-walking-robot-simulation-ii) |
 ## String Matching
 |  |
 | ------- |
