@@ -74,6 +74,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Sparkydev007/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Sparkydev007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sparkydev007/DSA/tree/master/0013-roman-to-integer) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sparkydev007/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sparkydev007/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sparkydev007/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sparkydev007/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sparkydev007/DSA/tree/master/0005-longest-palindromic-substring) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sparkydev007/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sparkydev007/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sparkydev007/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sparkydev007/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
