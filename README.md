@@ -31,6 +31,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sparkydev007/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sparkydev007/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/Sparkydev007/DSA/tree/master/3379-transformed-array) |
+| [3488-closest-equal-element-queries](https://github.com/Sparkydev007/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sparkydev007/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sparkydev007/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sparkydev007/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -51,6 +52,7 @@
 | [0874-walking-robot-simulation](https://github.com/Sparkydev007/DSA/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/Sparkydev007/DSA/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sparkydev007/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3488-closest-equal-element-queries](https://github.com/Sparkydev007/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sparkydev007/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Sparkydev007/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sparkydev007/DSA/tree/master/3714-longest-balanced-substring-ii) |
@@ -146,6 +148,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparkydev007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sparkydev007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sparkydev007/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/Sparkydev007/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sparkydev007/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Prefix Sum
 |  |
