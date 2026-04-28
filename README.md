@@ -24,6 +24,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sparkydev007/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/Sparkydev007/DSA/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sparkydev007/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sparkydev007/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/Sparkydev007/DSA/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Sparkydev007/DSA/tree/master/2906-construct-product-matrix) |
@@ -69,6 +70,7 @@
 | [0189-rotate-array](https://github.com/Sparkydev007/DSA/tree/master/0189-rotate-array) |
 | [1622-fancy-sequence](https://github.com/Sparkydev007/DSA/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sparkydev007/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sparkydev007/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sparkydev007/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## String
@@ -128,6 +130,7 @@
 | [0088-merge-sorted-array](https://github.com/Sparkydev007/DSA/tree/master/0088-merge-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sparkydev007/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sparkydev007/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2751-robot-collisions](https://github.com/Sparkydev007/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sparkydev007/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sparkydev007/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -227,6 +230,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sparkydev007/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sparkydev007/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sparkydev007/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/Sparkydev007/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sparkydev007/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sparkydev007/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
