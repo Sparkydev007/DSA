@@ -31,6 +31,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sparkydev007/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sparkydev007/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sparkydev007/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Sparkydev007/DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sparkydev007/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/Sparkydev007/DSA/tree/master/3379-transformed-array) |
 | [3488-closest-equal-element-queries](https://github.com/Sparkydev007/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -123,6 +124,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sparkydev007/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sparkydev007/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sparkydev007/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Sparkydev007/DSA/tree/master/3225-maximum-score-from-grid-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sparkydev007/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sparkydev007/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sparkydev007/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Sparkydev007/DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sparkydev007/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sparkydev007/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sparkydev007/DSA/tree/master/3714-longest-balanced-substring-ii) |
@@ -234,6 +237,7 @@
 | [2906-construct-product-matrix](https://github.com/Sparkydev007/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sparkydev007/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Sparkydev007/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Sparkydev007/DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sparkydev007/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sparkydev007/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sparkydev007/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
