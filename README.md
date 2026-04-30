@@ -45,6 +45,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Sparkydev007/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sparkydev007/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sparkydev007/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sparkydev007/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sparkydev007/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Sparkydev007/DSA/tree/master/3225-maximum-score-from-grid-operations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sparkydev007/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sparkydev007/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sparkydev007/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
