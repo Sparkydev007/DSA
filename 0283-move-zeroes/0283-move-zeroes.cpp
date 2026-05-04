@@ -4,11 +4,12 @@ public:
         int j = 0;
         int i = nums.size();
         for (i=0;i<nums.size();i++){
-            if(nums[i]!= 0){
-                swap(nums[i],nums[j]);
+            if (nums[i]!=0){
+                swap (nums[i], nums[j]);
                 j++;
             }
         }
-        
+
+
     }
 };
