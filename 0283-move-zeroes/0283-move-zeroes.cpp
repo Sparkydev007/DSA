@@ -12,3 +12,6 @@ public:
         }
     }
 };
+
+
+//we have used 2 pointers here
