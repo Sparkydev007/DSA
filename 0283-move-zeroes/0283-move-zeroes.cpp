@@ -4,14 +4,12 @@ public:
         int j = 0;
         int i = nums.size();
 
-        for(i=0;i<nums.size();i++){
+        for (i=0;i<nums.size();i++){
             if (nums[i]!=0){
                 swap(nums[i],nums[j]);
                 j++;
             }
         }
+        
     }
 };
-
-
-//we have used 2 pointers here
