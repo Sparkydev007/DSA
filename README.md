@@ -38,6 +38,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Sparkydev007/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sparkydev007/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Sparkydev007/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sparkydev007/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sparkydev007/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sparkydev007/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sparkydev007/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -58,6 +59,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Sparkydev007/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Sparkydev007/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sparkydev007/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sparkydev007/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/Sparkydev007/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sparkydev007/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sparkydev007/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -75,6 +77,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sparkydev007/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sparkydev007/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sparkydev007/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sparkydev007/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String
 |  |
 | ------- |
@@ -289,4 +292,9 @@
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sparkydev007/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sparkydev007/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sparkydev007/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
