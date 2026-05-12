@@ -68,6 +68,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sparkydev007/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sparkydev007/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sparkydev007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sparkydev007/DSA/tree/master/0013-roman-to-integer) |
@@ -251,6 +252,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sparkydev007/DSA/tree/master/0002-add-two-numbers) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sparkydev007/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |
@@ -297,4 +299,8 @@
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sparkydev007/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sparkydev007/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
