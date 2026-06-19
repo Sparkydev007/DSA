@@ -331,4 +331,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sparkydev007/DSA/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Sparkydev007/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
