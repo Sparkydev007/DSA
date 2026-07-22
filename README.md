@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sparkydev007/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sparkydev007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sparkydev007/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sparkydev007/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparkydev007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -181,6 +182,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sparkydev007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparkydev007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sparkydev007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sparkydev007/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -243,6 +245,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sparkydev007/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sparkydev007/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sparkydev007/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sparkydev007/DSA/tree/master/3719-longest-balanced-subarray-i) |
