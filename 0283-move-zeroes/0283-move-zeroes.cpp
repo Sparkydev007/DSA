@@ -10,3 +10,6 @@ public:
         return;
     }
 };
+
+
+//the first self solved leetcode question!!!!!!!!!!!!!!!!!!!!!!!! 24-07-26!
