@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparkydev007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sparkydev007/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sparkydev007/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Sparkydev007/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sparkydev007/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Sparkydev007/DSA/tree/master/0283-move-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sparkydev007/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -64,6 +65,7 @@
 | [0012-integer-to-roman](https://github.com/Sparkydev007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sparkydev007/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sparkydev007/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sparkydev007/DSA/tree/master/0217-contains-duplicate) |
 | [0874-walking-robot-simulation](https://github.com/Sparkydev007/DSA/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/Sparkydev007/DSA/tree/master/1980-find-unique-binary-string) |
 | [2784-check-if-array-is-good](https://github.com/Sparkydev007/DSA/tree/master/2784-check-if-array-is-good) |
@@ -157,6 +159,7 @@
 | [0015-3sum](https://github.com/Sparkydev007/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sparkydev007/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sparkydev007/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sparkydev007/DSA/tree/master/0217-contains-duplicate) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sparkydev007/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sparkydev007/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sparkydev007/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
