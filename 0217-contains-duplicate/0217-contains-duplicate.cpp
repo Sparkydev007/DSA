@@ -1,14 +1,14 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        std::unordered_set<int>tab;
+        std :: unordered_set<int> seen;
 
         for(int num : nums){
-            if (tab.count(num)){
+            if(seen.contains(num)){
                 return true;
             }
 
-            tab.insert(num);
+            seen.insert(num);
         }
 
         return false;
