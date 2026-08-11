@@ -1,15 +1,14 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        std :: unordered_set<int> aarya;
-
+        std :: unordered_set<int> arya;
 
         for(int num : nums){
-           if( aarya.contains(num)){
+            if (arya.contains(num)){
                 return true;
             }
 
-            aarya.insert(num);
+            arya.insert(num);
         }
 
         return false;
