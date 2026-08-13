@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/Sparkydev007/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparkydev007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sparkydev007/DSA/tree/master/0027-remove-element) |
+| [0073-set-matrix-zeroes](https://github.com/Sparkydev007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Sparkydev007/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparkydev007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sparkydev007/DSA/tree/master/0169-majority-element) |
@@ -64,6 +65,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sparkydev007/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sparkydev007/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sparkydev007/DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Sparkydev007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sparkydev007/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sparkydev007/DSA/tree/master/0217-contains-duplicate) |
 | [0874-walking-robot-simulation](https://github.com/Sparkydev007/DSA/tree/master/0874-walking-robot-simulation) |
@@ -273,6 +275,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sparkydev007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sparkydev007/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sparkydev007/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sparkydev007/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
