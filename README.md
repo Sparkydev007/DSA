@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Sparkydev007/DSA/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/Sparkydev007/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Sparkydev007/DSA/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Sparkydev007/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sparkydev007/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sparkydev007/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sparkydev007/DSA/tree/master/0189-rotate-array) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sparkydev007/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/Sparkydev007/DSA/tree/master/0118-pascals-triangle) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sparkydev007/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sparkydev007/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sparkydev007/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
