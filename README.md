@@ -356,4 +356,8 @@
 | [0595-big-countries](https://github.com/Sparkydev007/DSA/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Sparkydev007/DSA/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sparkydev007/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sparkydev007/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
