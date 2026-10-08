@@ -1,25 +1,28 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummyHead = new ListNode(0);
-        ListNode* curr = dummyHead;
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
         int carry = 0;
-        
+
         while (l1 != nullptr || l2 != nullptr || carry != 0) {
-            int x = (l1 != nullptr) ? l1->val : 0;
-            int y = (l2 != nullptr) ? l2->val : 0;
-            
-            int sum = carry + x + y;
+            int sum = carry;
+
+            if (l1 != nullptr) {
+                sum += l1->val;
+                l1 = l1->next;
+            }
+
+            if (l2 != nullptr) {
+                sum += l2->val;
+                l2 = l2->next;
+            }
+
             carry = sum / 10;
-            curr->next = new ListNode(sum % 10);
-            curr = curr->next;
-            
-            if (l1 != nullptr) l1 = l1->next;
-            if (l2 != nullptr) l2 = l2->next;
+            tail->next = new ListNode(sum % 10);
+            tail = tail->next;
         }
-        
-        ListNode* result = dummyHead->next;
-        delete dummyHead; // Free the allocated dummy node
-        return result;
+
+        return dummy.next;
     }
 };
